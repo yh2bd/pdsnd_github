@@ -5,11 +5,12 @@
 Bike Share Analysis Project
 
 ### Description
-Describe what your project is about and what it does
+Explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington
 
 ### Files used
-Chicago.csv
-New York City.csv
+chicago.csv
+new_york_city.csv
+washington.csv
 
 
 ### Credits
